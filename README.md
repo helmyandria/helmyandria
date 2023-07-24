@@ -1,4 +1,4 @@
-##Hello there! 👋 I'm Helmy, a passionate developer from Indonesia.
+### Hello there! 👋 I'm Helmy, a passionate developer from Indonesia.
 
 🚀 **About Me**
 - 💻 Full-stack Developer with a focus on Java for back-end development and Kotlin for mobile apps.
