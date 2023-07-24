@@ -18,5 +18,6 @@
 💬 **Let's Connect**
 - 📧 Email: helmyandria@gmail.com
 - 💼 LinkedIn: linkedin.com/in/helmy.andrianto
+- icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/helmy.andrianto/) 
 
 Feel free to explore my repositories, and if you find something interesting or have any suggestions, don't hesitate to reach out. Let's collaborate and build amazing software together! 🌟
